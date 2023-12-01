@@ -1,2 +1,2 @@
 # demo1
-read me class
+read git and github class.
